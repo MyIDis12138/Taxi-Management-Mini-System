@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\10598\Downloads\Compressed\1928607\Taxi_mini_system\Assessment4new\Source.cpp(88): warning C4715: 'cutbool': not all control paths return a value
+C:\Users\10598\Downloads\Compressed\1928607\Taxi_mini_system\Assessment4new\Source.cpp(168): warning C4715: 'login': not all control paths return a value
+C:\Users\10598\Downloads\Compressed\1928607\Taxi_mini_system\Assessment4new\staff.h(68): warning C4715: 'staff::finfpassword': not all control paths return a value
+C:\Users\10598\Downloads\Compressed\1928607\Taxi_mini_system\Assessment4new\carid.h(177): warning C4715: 'carid::getoccupy': not all control paths return a value
+C:\Users\10598\Downloads\Compressed\1928607\Taxi_mini_system\Assessment4new\FIleRecordh.h(123): warning C4715: 'FileReco::searchread': not all control paths return a value
+C:\Users\10598\Downloads\Compressed\1928607\Taxi_mini_system\Assessment4new\carid.h(207): warning C4715: 'carid::getuser2': not all control paths return a value
+C:\Users\10598\Downloads\Compressed\1928607\Taxi_mini_system\Assessment4new\carid.h(192): warning C4715: 'carid::getuser1': not all control paths return a value
+  Assessment4new.vcxproj -> C:\Users\10598\Downloads\Compressed\1928607\Taxi_mini_system\Debug\Assessment4new.exe

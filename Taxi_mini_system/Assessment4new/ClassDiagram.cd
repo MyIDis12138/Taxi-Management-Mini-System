@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="account">
+    <Position X="12.5" Y="17.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAAQgIAAgA=</HashCode>
+      <FileName>account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="carid">
+    <Position X="0.5" Y="11.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>CBAAAAAGAIAAAAQABCQCAACAAAABAAAIDgAEAAECAAA=</HashCode>
+      <FileName>carid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="4.25" Y="17.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQkAAAAAAAAAABAAAQAAQAAAAQAAAABBAAgAAAAAAA=</HashCode>
+      <FileName>date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drirecord">
+    <Position X="8.25" Y="17.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAEAAAAAEAQAAEAAAAAAAAAABAAAAQAAAAA=</HashCode>
+      <FileName>Drirecord.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fixpoint">
+    <Position X="0.5" Y="17.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAQAAAAAAQAIAAAAAAAgAQABAAA=</HashCode>
+      <FileName>fixpoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Driver">
+    <Position X="12.25" Y="5.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAgAAAIAAggUAAAAAACAAAAAZgAAAECgAIAAAEBA=</HashCode>
+      <FileName>Driver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileOp">
+    <Position X="9" Y="11.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAggAABCAAAAAAAAAACAEABAACAAAAAIA=</HashCode>
+      <FileName>FileOp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileReco">
+    <Position X="4.75" Y="11.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAQAAABCAAAAAAAABAIAAABAAEAAABAQI=</HashCode>
+      <FileName>FIleRecordh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="8.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pricecal">
+    <Position X="12.5" Y="11.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAhCAAAAAASIAAIAAABAIAAAAAAAA=</HashCode>
+      <FileName>pricecal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="staff">
+    <Position X="1.75" Y="2.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>BIBBEoAAhAIAIhACBACAMSQJQAABACAIEAACEAAAERA=</HashCode>
+      <FileName>staff.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="staffmanager">
+    <Position X="8" Y="4.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEAAAACAAAAAAgBACAAAAAAAAAAAAAAAAAIAQAAgAAA=</HashCode>
+      <FileName>staffmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="vehicles">
+    <Position X="12.5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAACAgAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>carid.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="prical">
+    <Position X="8.25" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAgA=</HashCode>
+      <FileName>pricecal.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
