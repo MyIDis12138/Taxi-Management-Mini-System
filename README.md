@@ -26,6 +26,8 @@ types of vehicles and rents.
 
 ## Interface for each type of users
 
+apologize for the poor interfaces for the system which all in command line display.
+
 - driver 
 
 ![Driver_mode](https://user-images.githubusercontent.com/91805924/186284717-9ddd3d72-1cb9-49f9-968f-8ba0589a6fad.png)
